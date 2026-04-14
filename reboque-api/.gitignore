@@ -11,3 +11,5 @@ node_modules/
 # Ignorar builds
 dist/
 build/
+# Variantes de env
+.env*
